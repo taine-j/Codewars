@@ -4,7 +4,9 @@ My daily codewars challenges! I push a codewars every day to sharpen my coding s
 
 ## How It's Made:
 
-**Tech used:** JavaScript
+**Tech used:** 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 
 ## Optimizations
