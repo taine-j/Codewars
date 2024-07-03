@@ -16,7 +16,7 @@ After completing the challenge I go back and refactor my code to ensure faster r
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. By building solid consistent habbits I grow every day. 
+No matter what your experience level, being an engineer means continuously learning. By building solid consistent habits I grow every day. 
 
 
 
